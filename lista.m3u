@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id=" CANAL TRO" tvg-logo="https://pbs.twimg.com/profile_images/1369740162943643650/p_FdgcvB_400x400.jpg" group-title="COLOMBIA", CANAL TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MOVIE FE" tvg-name="EJV"  group-title="GOSPEL", MOVIE FE
 https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ENLACE TV" tvg-name="EJV"  group-title="GOSPEL", ENLACE TV
