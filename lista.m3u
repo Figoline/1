@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EJV" tvg-name="EJV"  group-title="GOSPEL", EJV
-https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+#EXTINF:-1 tvg-id="MOVIE FE" tvg-name="EJV"  group-title="GOSPEL", MOVIE FE
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ENLACE TV" tvg-name="EJV"  group-title="GOSPEL", ENLACE TV
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL HD2" tvg-logo="http://daleplaypro.com:8080/images/6d1a19f3fd50d17b52478d576601424f.png" group-title="(TV) COLOMBIA",CO | CARACOL HD2
