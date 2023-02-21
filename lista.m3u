@@ -17,12 +17,6 @@ http://streamingtv.vip:8080/puntex22kh/farmex22tx/52965
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/54169
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LAT | ESPN 3 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="CHAMPIONS LEAGUE⚽",LAT | ESPN 3 FHD*
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/54516
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="PE | DIRECTV SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="ZONA | DIRECTV PREMIUM",PE | DIRECTV SPORTS HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/50492
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="PE | DIRECTV SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="ZONA | DIRECTV PREMIUM",PE | DIRECTV SPORTS SD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/50724
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | DIRECTV SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="ZONA | DIRECTV PREMIUM",AR | DIRECTV SPORTS 2 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/50725
 #EXTINF:-1 tvg-id="espn3.co" tvg-name="LAT | ESPN 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="(TV) DEPORTE LATINO",LAT | ESPN 3  SD
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/66
 #EXTINF:-1 tvg-id="espn3.co" tvg-name="LAT | ESPN 3  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="(TV) DEPORTE LATINO",LAT | ESPN 3  HD
@@ -103,6 +97,7 @@ http://streamingtv.vip:8080/puntex22kh/farmex22tx/6
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/8
 #EXTINF:-1 tvg-id="cinemax.co" tvg-name="CINE  | CINEMAX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="(TV) CINE PREMIUM Exclusivo",CINE  | CINEMAX  SD
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/9
+
 #EXTINF:-1 tvg-id="HBOLatinAmerica.pa" tvg-name="VIP | HBO - HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf-ISIGkeFPEvPOjY5mqVqXEbwMk8wcaPdQ&usqp=CAU" group-title="ZONA | HBO PREMIUM",VIP | HBO - HD
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/1395
 #EXTINF:-1 tvg-id="I347.82003.schedulesdirect.org" tvg-name="VIP | HBO - SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf-ISIGkeFPEvPOjY5mqVqXEbwMk8wcaPdQ&usqp=CAU" group-title="ZONA | HBO PREMIUM",VIP | HBO - SD
@@ -230,52 +225,6 @@ http://streamingtv.vip:8080/puntex22kh/farmex22tx/99097
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/99100
 #EXTINF:-1 tvg-id="" tvg-name="24/7 M|Películas Romance" tvg-logo="http://l3d.us:8080/images/248255247b0637c16c63f59c07a540f0.png" group-title="24/7 ( PELICULAS )",24/7 M|Películas Romance
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/99101
-#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",LAT | ESPN 1 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99799
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="LAT | ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",LAT | ESPN 2 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99800
-#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",LAT | ESPN 3 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99801
-#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",LAT | ESPN 4 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99802
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | ESPN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIf3H0B10kWq9MmRN8u_IVQRm6dxd6PFAWKg&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",BRASIL | ESPN 1 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99813
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIf3H0B10kWq9MmRN8u_IVQRm6dxd6PFAWKg&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",BRASIL | ESPN 2 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99814
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | ESPN BRASIL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIf3H0B10kWq9MmRN8u_IVQRm6dxd6PFAWKg&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",BRASIL | ESPN BRASIL HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99815
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | ESPN EXTRA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIf3H0B10kWq9MmRN8u_IVQRm6dxd6PFAWKg&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",BRASIL | ESPN EXTRA HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99816
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPN HD" tvg-logo="http://daleplay.club:8080/images/154a6cabd1e638df4212d26d0f430d81.png" group-title="ZONA | ESPN HD PREMIUM",UK : BT Sport ESPN HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99819
-#EXTINF:-1 tvg-id="" tvg-name="UK : BT Sport ESPN SD" tvg-logo="http://daleplay.club:8080/images/154a6cabd1e638df4212d26d0f430d81.png" group-title="ZONA | ESPN HD PREMIUM",UK : BT Sport ESPN SD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99820
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",USA | ESPN HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99821
-#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN DEPORTES" tvg-logo="http://daleplay.club:8080/images/45ee46fe6747af62c65c8cfe204a8ce1.png" group-title="ZONA | ESPN HD PREMIUM",USA: ESPN DEPORTES
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99822
-#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN NEWS" tvg-logo="http://daleplay.club:8080/images/9d70c552dbb7c34bd67a80bf0cee20c1.png" group-title="ZONA | ESPN HD PREMIUM",USA: ESPN NEWS
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99823
-#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="ZONA | ESPN HD PREMIUM",USA: ESPN U
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99824
-#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN 2" tvg-logo="http://daleplaypro.com:8080/images/d54eaa7605a999bbdbe4e444f83baa20.png" group-title="ZONA | ESPN HD PREMIUM",ES: ESPN 2
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99825
-#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN SPANISH 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtuHBarT2q6mOKgneq08Qg-8npvBKfC-ug-A&usqp=CAU" group-title="ZONA | ESPN HD PREMIUM",USA | ESPN SPANISH 3 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99826
-#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS  2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ZONA | FOX SPORTS HD",MX | FOX SPORTS  2 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99832
-#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ZONA | FOX SPORTS HD",MX | FOX SPORTS 3 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99833
-#EXTINF:-1 tvg-id="" tvg-name="MX | FOX PREMIUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es" group-title="ZONA | FOX SPORTS HD",MX | FOX PREMIUM HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99835
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ZONA | FOX SPORTS HD",LAT | FOX SPORTS 1 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99836
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ZONA | FOX SPORTS HD",LAT | FOX SPORTS 2 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/99837
-#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ZONA | FOX SPORTS HD",LAT | FOX SPORTS 3 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/100115
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL | FOX SPORTS 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="ZONA | FOX SPORTS HD",BRASIL | FOX SPORTS 1 HD
-http://streamingtv.vip:8080/puntex22kh/farmex22tx/100116
 #EXTINF:-1 tvg-id="" tvg-name="CO | Cable Noticias HD" tvg-logo="http://daleplaypro.com:8080/images/f0267366c5fca018cc09fc774f0ef5b2.png" group-title="(TV) COLOMBIA",CO | Cable Noticias HD
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/69241
 #EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://daleplay.club:8080/images/f0267366c5fca018cc09fc774f0ef5b2.png" group-title="(TV) COLOMBIA",CO | Cablenoticias
