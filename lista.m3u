@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0,02 tvg-id="Enlace" tvg-name="CO | Enlace HD" http://fullmega.online:8080/pedro/pedro/522069
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL4 HD" tvg-logo="http://daleplaypro.com:8080/images/6d1a19f3fd50d17b52478d576601424f.png" group-title="(TV) COLOMBIA",CO | CARACOL4 HD
-http://fullmega.online:8080/pedro/pedro/522069
+
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL HD" tvg-logo="http://daleplaypro.com:8080/images/6d1a19f3fd50d17b52478d576601424f.png" group-title="(TV) COLOMBIA",CO | CARACOL HD
 http://streamingtv.vip:8080/puntex22kh/farmex22tx/69251
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL SD" tvg-logo="http://daleplaypro.com:8080/images/6d1a19f3fd50d17b52478d576601424f.png" group-title="(TV) COLOMBIA",CO | CARACOL SD
