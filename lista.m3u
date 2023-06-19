@@ -1,64 +1,58 @@
 #EXTM3U
-#EXTINF:-1,COL| CANAL UNO FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86321
-#EXTINF:-1,COL| CARACOL HD H2 
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86323
-#EXTINF:-1,COL| CARACOL 1080P *
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86324
-#EXTINF:-1,COL| CARACOL INTERNACIONAL HD**
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86328
-#EXTINF:-1,COL| CARACOL COLOMBIA HD*
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86330
-#EXTINF:-1,COL| RCN FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86331
-#EXTINF:-1,COL| RCN NACIONAL HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86332
-#EXTINF:-1,COL| RCN NUESTRA TELE HD **
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86333
-#EXTINF:-1,COL| NTN24 HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86337
-#EXTINF:-1,COL| WIN SPORTS + HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86344
-#EXTINF:-1,COL| WIN SPORTS PLUS FHD**
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86345
-#EXTINF:-1,COL| WIN SPORTS PLUS FHD** (EXCLUSIVO)
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86346
-#EXTINF:-1,COL| DIRECTV SPORTS 1 HD*
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86349
-#EXTINF:-1,COL| DIRECTV SPORTS 2 HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86350
-#EXTINF:-1,COL| DIRECTV SPORTS +
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86351
-#EXTINF:-1,COL| FOX SPORTS 1 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86352
-#EXTINF:-1,COL| FOX SPORTS 2 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86353
-#EXTINF:-1,COL| FOX SPORTS 3 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86354
-#EXTINF:-1,COL| ESPN 1 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86355
-#EXTINF:-1,COL| ESPN 2 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86356
-#EXTINF:-1,COL| ESPN 3 FHD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86357
-#EXTINF:-1,COL| TELEMEDELLIN
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86358
-#EXTINF:-1,COL| TELECARIBE HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86359
-#EXTINF:-1,COL| TELEANTIOQUIA HD**
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86360
-#EXTINF:-1,COL| CANAL CAPITAL
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86361
-#EXTINF:-1,COL| CALI TV
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86363
-#EXTINF:-1,COL| TV AGRO HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86367
-#EXTINF:-1,COL| TELEPACIFICO HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86369
-#EXTINF:-1,COL| HOLA TV HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86375
-#EXTINF:-1,COL| EL GOURMET HD
-http://playhispano.org:25461/eliaseggy787/JRZpSNT6Bv/86377
+#EXTINF:-1 tvg-id="" tvg-name="CO | Cable Noticias HD" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png" group-title="⭐️ Colombia",CO | Cable Noticias HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319448
+#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Capital" tvg-logo="http://streamgo.vip:8008/images/7da05d11d78e8951326c0b1d72928161.png" group-title="⭐️ Colombia",CO | Canal Capital
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319449
+#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Uno" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png" group-title="⭐️ Colombia",CO | Canal Uno
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319450
+#EXTINF:-1 tvg-id="" tvg-name="CO | Canal Uno HD" tvg-logo="http://streamgo.vip:8008/images/cd4425427821cc583cfb026e619fa062.png" group-title="⭐️ Colombia",CO | Canal Uno HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319451
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="⭐️ Colombia",CO | CARACOL HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319452
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL SD" tvg-logo="http://streamgo.vip:8008/images/9cf64731edc6d4c3323718c6eb8138cd.png" group-title="⭐️ Colombia",CO | CARACOL SD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319453
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319455
+#EXTINF:-1 tvg-id="" tvg-name="CO | Caracol Internacional HD" tvg-logo="http://streamgo.vip:8008/images/9fc22b232a8197e3e6b09ccc8c4846f2.png" group-title="⭐️ Colombia",CO | Caracol Internacional HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319456
+#EXTINF:-1 tvg-id="" tvg-name="CO | El Tiempo" tvg-logo="http://streamgo.vip:8008/images/e3374ab3d074c77675647cfd8d5ac193.png" group-title="⭐️ Colombia",CO | El Tiempo
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319457
+#EXTINF:-1 tvg-id="" tvg-name="CO | NTN24" tvg-logo="http://streamgo.vip:8008/images/d94d3dedf5efcb70fd4c5ec164d62aaa.png" group-title="⭐️ Colombia",CO | NTN24
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319458
+#EXTINF:-1 tvg-id="" tvg-name="CO | Pasiones HD" tvg-logo="http://streamgo.vip:8008/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="⭐️ Colombia",CO | Pasiones HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319459
+#EXTINF:-1 tvg-id="" tvg-name="CO | Pasiones FHD" tvg-logo="http://streamgo.vip:8008/images/ea579624982a7b2006f31ac0abe3084e.png" group-title="⭐️ Colombia",CO | Pasiones FHD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319460
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="⭐️ Colombia",CO | RCN HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319461
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN SD" tvg-logo="http://streamgo.vip:8008/images/734a5c146a57899f2e1a2dac311a747d.png" group-title="⭐️ Colombia",CO | RCN SD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319462
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN Internacional HD" tvg-logo="http://streamgo.vip:8008/images/03f202aea63e665db73316d8f1ece753.png" group-title="⭐️ Colombia",CO | RCN Internacional HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319463
+#EXTINF:-1 tvg-id="" tvg-name="CO | RCN Novelas HD" tvg-logo="http://streamgo.vip:8008/images/1fb58df5c47942436ba1bfe0978e1b70.png" group-title="⭐️ Colombia",CO | RCN Novelas HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319464
+#EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="⭐️ Colombia",CO | Señal Colombia
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319465
+#EXTINF:-1 tvg-id="" tvg-name="CO | Señal Colombia HD" tvg-logo="http://streamgo.vip:8008/images/30e73c310da7d353d9a9bf46213c1135.png" group-title="⭐️ Colombia",CO | Señal Colombia HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319466
+#EXTINF:-1 tvg-id="" tvg-name="CO | TeleAntioquia HD" tvg-logo="http://streamgo.vip:8008/images/4e7ca7d40c3fcf1b23f76af0d9f7235a.png" group-title="⭐️ Colombia",CO | TeleAntioquia HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319467
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telecafé" tvg-logo="http://streamgo.vip:8008/images/aff1a8273b40f6cdd36ef6da73fdeb50.png" group-title="⭐️ Colombia",CO | Telecafé
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319468
+#EXTINF:-1 tvg-id="" tvg-name="CO | TeleCaribe" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png" group-title="⭐️ Colombia",CO | TeleCaribe
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319469
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telecaribe HD" tvg-logo="http://streamgo.vip:8008/images/313344b792f2396df12c249f7d3812c9.png" group-title="⭐️ Colombia",CO | Telecaribe HD
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319470
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telemedellin" tvg-logo="http://streamgo.vip:8008/images/ff3f24f3d5d3103cd988f09417c23c27.png" group-title="⭐️ Colombia",CO | Telemedellin
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319471
+#EXTINF:-1 tvg-id="" tvg-name="CO | Telepacifico" tvg-logo="http://streamgo.vip:8008/images/f661ac88786c79fb80ecb9bde42fa929.png" group-title="⭐️ Colombia",CO | Telepacifico
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319472
+#EXTINF:-1 tvg-id="" tvg-name="CO | La kalle" tvg-logo="http://streamgo.vip:8008/images/a4b965de697b8782ba503dd6ab336c04.png" group-title="⭐️ Colombia",CO | La kalle
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319473
+#EXTINF:-1 tvg-id="" tvg-name="CO | TV AGRO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAW1Sn8nmaEu9zN4vP23Fp8EfO2OSWuoGgg&usqp=CAU" group-title="⭐️ Colombia",CO | TV AGRO
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319474
+#EXTINF:-1 tvg-id="" tvg-name="CO | Cablenoticias" tvg-logo="http://streamgo.vip:8008/images/6397e0a8c21ef6a4bac5a777a71e7f01.png" group-title="⭐️ Colombia",CO | Cablenoticias
+http://streamgo.vip:8008/CD22548792/M759UEGqhjjx/319477
 
 #EXTM3U
 
