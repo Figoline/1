@@ -1,4 +1,33 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="Low | AXN (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="⭐️Low Channels Latinos⭐️",Low | AXN (Low)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3840
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="Low | Boomerang (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="⭐️Low Channels Latinos⭐️",Low | Boomerang (Low)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3841
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Low | Cartoon Network (Low)" tvg-logo="https://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="⭐️Low Channels Latinos⭐️",Low | Cartoon Network (Low)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3842
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-name="Low | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="⭐️Low Channels Latinos⭐️",Low | Cinecanal
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3843
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="Low | Cinemax" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cinemax-1-logo-png-transparent.png" group-title="⭐️Low Channels Latinos⭐️",Low | Cinemax
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3844
+#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-name="Low | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="⭐️Low Channels Latinos⭐️",Low | Comedy Central
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3845
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-name="Low | Discovery Channel" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="⭐️Low Channels Latinos⭐️",Low | Discovery Channel
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3846
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Low | Discovery Home & Healt" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="⭐️Low Channels Latinos⭐️",Low | Discovery Home & Healt
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3847
+#EXTINF:-1 tvg-id="" tvg-name="Low | Discovery Turbo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="⭐️Low Channels Latinos⭐️",Low | Discovery Turbo (L)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3848
+#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="Low | Disney Junior (L)" tvg-logo="https://nuvera.net/wp-content/uploads/2018/01/DisneyJR-Logo-Black-300x169.png" group-title="⭐️Low Channels Latinos⭐️",Low | Disney Junior (L)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3849
+#EXTINF:-1 tvg-id="I292.60006.zap2it.com" tvg-name="Low | Disney XD (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="⭐️Low Channels Latinos⭐️",Low | Disney XD (L)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3850
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="Low | ESPN (Low)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="⭐️Low Channels Latinos⭐️",Low | ESPN (Low)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3851
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="Low | ESPN 2 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="⭐️Low Channels Latinos⭐️",Low | ESPN 2 (Low)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3852
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="Low |  ESPN 3 (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⭐️Low Channels Latinos⭐️",Low |  ESPN 3 (Low)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3853
+
 #EXTINF:-1 tvg-id="" tvg-name="CO ZOOMOO  (P)" tvg-logo="" group-title="ARGENTINA // LATINO",CO ZOOMOO  (P)
 http://ultrontv.xyz:80/PatMyTv2022/wUf5p66VcJwT/50598
 #EXTINF:-1,Cartoonito SD (LAT)
