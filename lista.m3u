@@ -1,4 +1,112 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="00 | NAT GEO WILD UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="CULTURA en UHD: Excepcional⭐️",00 | NAT GEO WILD UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2012
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="01 | NAT GEO MUNDO UHD" tvg-logo="" group-title="CULTURA en UHD: Excepcional⭐️",01 | NAT GEO MUNDO UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2013
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="02 | NATIONAL GEOGRAPHIC (ARG) " tvg-logo="" group-title="CULTURA en UHD: Excepcional⭐️",02 | NATIONAL GEOGRAPHIC (ARG) 
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2014
+#EXTINF:-1 tvg-id="NationalGeographicMexico.mx" tvg-name="03 | NATIONAL GEOGRAPHIC (MX) " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-Logo.png" group-title="CULTURA en UHD: Excepcional⭐️",03 | NATIONAL GEOGRAPHIC (MX) 
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2015
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="04 | DISCOVERY CHANNEL (MX)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CULTURA en UHD: Excepcional⭐️",04 | DISCOVERY CHANNEL (MX)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2020
+#EXTINF:-1 tvg-id="DiscoveryChannelPanregional.us" tvg-name="05 | DISCOVERY CHANNEL (ARG)" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="CULTURA en UHD: Excepcional⭐️",05 | DISCOVERY CHANNEL (ARG)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2024
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="06 |  DISCOVERY HOME & HEALTH UHD®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="CULTURA en UHD: Excepcional⭐️",06 |  DISCOVERY HOME & HEALTH UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2025
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="07 |  DISCOVERY HOME & HEALTH MX UHD®" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="CULTURA en UHD: Excepcional⭐️",07 |  DISCOVERY HOME & HEALTH MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2026
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="08 | DISCOVERY FAMILIA UHD" tvg-logo="" group-title="CULTURA en UHD: Excepcional⭐️",08 | DISCOVERY FAMILIA UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2029
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="09 | DISCOVERY THEATER UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",09 | DISCOVERY THEATER UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/2032
+#EXTINF:-1 tvg-id="InvestigationDiscoveryMexico.mx" tvg-name="10 | DISCOVERY INVESTIGATION MX  UHD" tvg-logo="https://www.pngitem.com/pimgs/m/192-1922116_investigation-discovery-hd-logo-hd-png-download.png" group-title="CULTURA en UHD: Excepcional⭐️",10 | DISCOVERY INVESTIGATION MX  UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3605
+#EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="11 | DISCOVERY WORLD MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",11 | DISCOVERY WORLD MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3606
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-name="12 | DISCOVERY TURBO UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",12 | DISCOVERY TURBO UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3702
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="13 | DISCOVERY SCIENCE UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",13 | DISCOVERY SCIENCE UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3713
+#EXTINF:-1 tvg-id="ElGourmetPanregional.ar" tvg-name="14 | DISCOVERY TLC UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/1200px-TLC_Logo_Germany.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",14 | DISCOVERY TLC UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3741
+#EXTINF:-1 tvg-id="24Horas.cl" tvg-name="15 | FOOD NETWORK MX UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="CULTURA en UHD: Excepcional⭐️",15 | FOOD NETWORK MX UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3746
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="16 | HISTORY CHANNEL UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",16 | HISTORY CHANNEL UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3764
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="17 | HISTORY CHANNEL UHD" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="CULTURA en UHD: Excepcional⭐️",17 | HISTORY CHANNEL UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3768
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="18 | HISTORY CHANNEL 2 UHD" tvg-logo="https://www.pngitem.com/middle/hmowTom_history-channel-2-logo-hd-png-download/" group-title="CULTURA en UHD: Excepcional⭐️",18 | HISTORY CHANNEL 2 UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3778
+#EXTINF:-1 tvg-id="HistoryPanregional.us" tvg-name="19 | HISTORY CHANNEL SUR UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="CULTURA en UHD: Excepcional⭐️",19 | HISTORY CHANNEL SUR UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/132332
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-name="20 | GARAGE TV MX UHD" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="CULTURA en UHD: Excepcional⭐️",20 | GARAGE TV MX UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/136487
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="COL: CANAL UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL UNO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3570
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA⭐️PREMIUM",COL: CARACOL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3571
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA⭐️PREMIUM",COL: CARACOL HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3572
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL INTERNACIONAL" tvg-logo="https://es.wikipedia.org/wiki/Caracol_Internacional#/media/Archivo:Caracol_HD_Internacional.png" group-title="COLOMBIA⭐️PREMIUM",COL: CARACOL INTERNACIONAL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3573
+#EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="COL: CARACOL NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA⭐️PREMIUM",COL: CARACOL NOTICIAS HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3574
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: RCN FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3575
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: RCN HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3576
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="COL: RCN NOVELAS" tvg-logo="https://es.wikipedia.org/wiki/RCN_Novelas#/media/Archivo:RCN_Novelas_logo.svg" group-title="COLOMBIA⭐️PREMIUM",COL: RCN NOVELAS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3577
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COL: TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELEANTIOQUIA
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3578
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-name="COL: TELECAFE HD" tvg-logo="https://files.rcnradio.com/public/migration/logo-telecafe-2014.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELECAFE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3580
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELECARIBE
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3581
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="COL: TELECARIBE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELECARIBE HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3582
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="COL: TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELEPACIFICO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3583
+#EXTINF:-1 tvg-id="Telepacifico.co" tvg-name="COL: TELEPACIFICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELEPACIFICO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3584
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: TELEMEDELLIN HD" tvg-logo="https://telemedellin.tv/wp-content/uploads/2018/07/logo_telemedellin.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELEMEDELLIN HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3585
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="COL: TV AGRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: TV AGRO
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3586
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="COL: CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: CABLE NOTICIAS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3587
+#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="COL: CABLE NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: CABLE NOTICIAS HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3588
+#EXTINF:-1 tvg-id="I151.60278.schedulesdirect.org" tvg-name="COL: TELEMEDELLIN" tvg-logo="https://telemedellin.tv/wp-content/uploads/2018/07/logo_telemedellin.png" group-title="COLOMBIA⭐️PREMIUM",COL: TELEMEDELLIN
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3590
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="COL: NTN24 UHD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA⭐️PREMIUM",COL: NTN24 UHD®
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3785
+#EXTINF:-1 tvg-id="" tvg-name="COL: CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL 2 CALI
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135035
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="COL: CANAL CAPITAL" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/03/logo-canal-2020e.png" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL CAPITAL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135036
+#EXTINF:-1 tvg-id="" tvg-name="COL: CANAL SAN JACINTO HD" tvg-logo="https://tdicolombia.com.co/wp-content/uploads/2021/11/TDI.gif" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL SAN JACINTO HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135037
+#EXTINF:-1 tvg-id="" tvg-name="COL: Canal Zoom (HD)" tvg-logo="https://seeklogo.com/images/C/canal-trece-colombia-2003-2005-logo-A9E617822D-seeklogo.com.png" group-title="COLOMBIA⭐️PREMIUM",COL: Canal Zoom (HD)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135039
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: CANAL MUNDO MAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL MUNDO MAS
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135040
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: CANAL Santa Marta TV (HD)" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL Santa Marta TV (HD)
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135041
+#EXTINF:-1 tvg-id="" tvg-name="COL: CANAL 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="COLOMBIA⭐️PREMIUM",COL: CANAL 2 UHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135042
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: AVIVAMIENTO ABN FHD" tvg-logo="https://media.info/i/tb/1456/1544726087/1373255396.jpg" group-title="COLOMBIA⭐️PREMIUM",COL: AVIVAMIENTO ABN FHD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135043
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-name="COL: RCN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png" group-title="COLOMBIA⭐️PREMIUM",COL: RCN 2 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/137655
+#EXTINF:-1 tvg-id="" tvg-name="25 | DISCOVERY CIVILITATION MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="Descubre CULTURA en SD ⭐️",25 | DISCOVERY CIVILITATION MX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/138188
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="KIDS | DISNEY XD MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES: Toda la diversión❤️HD/SD⭐️",KIDS | DISNEY XD MX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/138189
+#EXTINF:-1 tvg-id="ElGourmetPanregional.ar" tvg-name="26 | EL GOURMET MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="Descubre CULTURA en SD ⭐️",26 | EL GOURMET MX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/138191
+#EXTINF:-1 tvg-id="" tvg-name="30 | ESPN EXTRA MX" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Logo.png" group-title="Deportes SD: Pasión Calidad Estándar⭐️",30 | ESPN EXTRA MX
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/138192
 #EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="Low | AXN (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="⭐️Low Channels Latinos⭐️",Low | AXN (Low)
 http://31.42.185.216:8000/decaicedo22/LYP8385l0j/3840
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="Low | Boomerang (Low)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="⭐️Low Channels Latinos⭐️",Low | Boomerang (Low)
