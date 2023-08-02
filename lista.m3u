@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="DISCOVERY_TURBO_HD" tvg-logo="http://playhispano.org:8080/images/9ddbef6c32d9fa8ffcb07a961f943c36.png" group-title=" TV | CLARO COLOMBIA (FHD)",DISCOVERY_TURBO_HD
 http://playhispano.org:8080/DIRECTVGOSKY/QK0WCEz6W7/159791
 #EXTINF:-1 tvg-id="comedycentral.co" tvg-name="COMEDY_CENTRAL_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_12/small.279164273_Sinttulo-2.png.973c12b8dcf916ec1caca304df1efeb0.png" group-title=" TV | CLARO COLOMBIA (FHD)",COMEDY_CENTRAL_HD
